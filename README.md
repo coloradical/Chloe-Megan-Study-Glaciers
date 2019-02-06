@@ -1,1 +1,3 @@
-#Chloe-Megan-Study-Glaciers
+## Exploring Glacier Data 
+
+Megan Byers & Chloe Bruce
