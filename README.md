@@ -1,5 +1,13 @@
 ## Exploring Glacier Data 
 
+In order to see our project's process through our Jupyter Notebook, "Project_Workbook.ipynb", download the following files: 
+- glims_original.csv
+- LatLong_GLIMS.csv
+- wgi_original.csv 
+- Project_Workbook.ipynb
+
+
+
 Megan Byers & Chloe Bruce
 
 ## Summary:
